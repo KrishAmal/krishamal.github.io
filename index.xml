@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Amal Krishnan</title>
+    <link>https://krishamal.github.io/index.xml</link>
+    <description>Recent content on Amal Krishnan</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Thu, 24 Nov 2016 12:27:29 +0530</lastBuildDate>
+    <atom:link href="https://krishamal.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>A New Theme , A New Blog</title>
+      <link>https://krishamal.github.io/blog/first-sample-post/</link>
+      <pubDate>Thu, 24 Nov 2016 12:27:29 +0530</pubDate>
+      
+      <guid>https://krishamal.github.io/blog/first-sample-post/</guid>
+      <description>
+
+&lt;h1 id=&#34;my-first-post-ever&#34;&gt;My First post ever&lt;/h1&gt;
+
+&lt;p&gt;After Weeks of fiddling around with &lt;a href=&#34;https://gohugo.io/&#34;&gt;hugo&lt;/a&gt; and getting pretty proficient with &lt;a href=&#34;https://git-scm.com/book/en/v2/Git-Tools-Submodules&#34;&gt;Git Submodules&lt;/a&gt;
+and &lt;a href=&#34;https://daringfireball.net/projects/markdown/&#34;&gt;Markdown&lt;/a&gt; (So far , loving it !) , I&amp;rsquo;ve finally pushed my personal site . Thanks to &lt;a href=&#34;http://themes.gohugo.io/hugo-sustain/&#34;&gt;Sustain Theme&lt;/a&gt; for making all these stuff look really slick.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Carpe Diem&lt;/strong&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Projects</title>
+      <link>https://krishamal.github.io/projects/</link>
+      <pubDate>Sun, 02 Oct 2016 22:55:05 -0400</pubDate>
+      
+      <guid>https://krishamal.github.io/projects/</guid>
+      <description>&lt;section id=&#34;projects&#34;&gt;
+  &lt;div class=&#34;container&#34;&gt;
+    &lt;h3&gt;Projects&lt;/h3&gt;
+    &lt;div class=&#34;panel panel-default&#34;&gt;
+      &lt;div class=&#34;panel-body&#34;&gt;
+      &lt;h5&gt;
+        &lt;i class=&#34;fa fa-github&#34;&gt;&lt;/i&gt;&amp;nbsp;&amp;nbsp;&lt;i class=&#34;fa fa-android&#34;&gt;&lt;/i&gt;&amp;nbsp;&amp;nbsp;
+        &lt;strong&gt;&lt;a href=&#34;https://github.com/KrishAmal/PopularMovies&#34;&gt;Popular Movies&lt;/a&gt;&lt;/strong&gt;
+        - An Android App that Displays Movie details ,trailer and reviews .
+      &lt;/h5&gt;
+      &lt;h5&gt;
+        &lt;i class=&#34;fa fa-github&#34;&gt;&lt;/i&gt;&amp;nbsp;&amp;nbsp;&lt;i class=&#34;fa fa-android&#34;&gt;&lt;/i&gt;&amp;nbsp;&amp;nbsp;
+        &lt;strong&gt;&lt;a href=&#34;https://github.com/KrishAmal/StockHawk&#34;&gt;Stock Hawk&lt;/a&gt;&lt;/strong&gt;
+        - Android App for Curating Stock Quotes and Details .
+      &lt;/h5&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/section&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
