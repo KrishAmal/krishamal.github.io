@@ -47,6 +47,13 @@ and &lt;a href=&#34;https://daringfireball.net/projects/markdown/&#34;&gt;Markdo
         &lt;strong&gt;&lt;a href=&#34;https://github.com/KrishAmal/StockHawk&#34;&gt;Stock Hawk&lt;/a&gt;&lt;/strong&gt;
         - Android App for Curating Stock Quotes and Details .
       &lt;/h5&gt;
+      &lt;h5&gt;
+        &lt;i class=&#34;fa fa-github&#34;&gt;&lt;/i&gt;&amp;nbsp;&amp;nbsp;&lt;i class=&#34;fa fa-android&#34;&gt;&lt;/i&gt;&amp;nbsp;&amp;nbsp;
+        &lt;strong&gt;&lt;a href=&#34;https://github.com/KrishAmal/BuildItBigger&#34;&gt;Build It Bigger&lt;/a&gt;&lt;/strong&gt;
+        - A Joke-telling Android App that uses Gradle , factoring functionality into libraries and 
+        flavors to keep the build simple. Also configured a Google Cloud Endpoints development server to 
+        supply the jokes.
+      &lt;/h5&gt;
       &lt;/div&gt;
     &lt;/div&gt;
   &lt;/div&gt;
