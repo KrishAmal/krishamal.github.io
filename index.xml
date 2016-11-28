@@ -54,6 +54,21 @@ and &lt;a href=&#34;https://daringfireball.net/projects/markdown/&#34;&gt;Markdo
         flavors to keep the build simple. Also configured a Google Cloud Endpoints development server to 
         supply the jokes.
       &lt;/h5&gt;
+      &lt;h5&gt;
+        &lt;i class=&#34;fa fa-github&#34;&gt;&lt;/i&gt;&amp;nbsp;&amp;nbsp;&lt;i class=&#34;fa fa-android&#34;&gt;&lt;/i&gt;&amp;nbsp;&amp;nbsp;
+        &lt;strong&gt;&lt;a href=&#34;https://github.com/KrishAmal/XYZReader&#34;&gt;XYZReader&lt;/a&gt;&lt;/strong&gt;
+        - A slick looking Android App using material design used for reading articles .
+      &lt;/h5&gt;
+      &lt;h5&gt;
+        &lt;i class=&#34;fa fa-github&#34;&gt;&lt;/i&gt;&amp;nbsp;&amp;nbsp;&lt;i class=&#34;fa fa-android&#34;&gt;&lt;/i&gt;&amp;nbsp;&amp;nbsp;
+        &lt;strong&gt;&lt;a href=&#34;https://github.com/KrishAmal/GoUbiquitous&#34;&gt;GoUbiquitous&lt;/a&gt;&lt;/strong&gt;
+        - A Weather info Android App that supports Android wear through a beautifully crafted watch face.
+      &lt;/h5&gt;
+      &lt;h5&gt;
+        &lt;i class=&#34;fa fa-github&#34;&gt;&lt;/i&gt;&amp;nbsp;&amp;nbsp;&lt;i class=&#34;fa fa-desktop&#34;&gt;&lt;/i&gt;&amp;nbsp;&amp;nbsp;
+        &lt;strong&gt;&lt;a href=&#34;https://github.com/KrishAmal/Skydiving&#34;&gt;Skydiving &lt;/a&gt;&lt;/strong&gt;
+        - A Simple Skydiving Game built using OpenGL and C++ as a part of the University Undergraduate Mini Project.
+      &lt;/h5&gt;
       &lt;/div&gt;
     &lt;/div&gt;
   &lt;/div&gt;
