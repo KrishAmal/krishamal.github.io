@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Amal Krishnan</title>
+    <link>https://krishamal.github.io/tags/</link>
+    <description>Recent content in Tags on Amal Krishnan</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Thu, 24 Nov 2016 12:27:29 +0530</lastBuildDate>
+    
+	<atom:link href="https://krishamal.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Git</title>
+      <link>https://krishamal.github.io/tags/git/</link>
+      <pubDate>Thu, 24 Nov 2016 12:27:29 +0530</pubDate>
+      
+      <guid>https://krishamal.github.io/tags/git/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hugo</title>
+      <link>https://krishamal.github.io/tags/hugo/</link>
+      <pubDate>Thu, 24 Nov 2016 12:27:29 +0530</pubDate>
+      
+      <guid>https://krishamal.github.io/tags/hugo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Markdown</title>
+      <link>https://krishamal.github.io/tags/markdown/</link>
+      <pubDate>Thu, 24 Nov 2016 12:27:29 +0530</pubDate>
+      
+      <guid>https://krishamal.github.io/tags/markdown/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Projects</title>
+      <link>https://krishamal.github.io/tags/projects/</link>
+      <pubDate>Sun, 02 Oct 2016 22:55:05 -0400</pubDate>
+      
+      <guid>https://krishamal.github.io/tags/projects/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sustain Theme</title>
+      <link>https://krishamal.github.io/tags/sustain-theme/</link>
+      <pubDate>Thu, 24 Nov 2016 12:27:29 +0530</pubDate>
+      
+      <guid>https://krishamal.github.io/tags/sustain-theme/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

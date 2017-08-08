@@ -1,12 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Amal Krishnan</title>
-    <link>https://krishamal.github.io/tags/projects/index.xml</link>
-    <description>Recent content on Amal Krishnan</description>
+    <title>Projects on Amal Krishnan</title>
+    <link>https://krishamal.github.io/tags/projects/</link>
+    <description>Recent content in Projects on Amal Krishnan</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <atom:link href="https://krishamal.github.io/tags/projects/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 02 Oct 2016 22:55:05 -0400</lastBuildDate>
+    
+	<atom:link href="https://krishamal.github.io/tags/projects/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>Projects</title>
@@ -14,48 +17,7 @@
       <pubDate>Sun, 02 Oct 2016 22:55:05 -0400</pubDate>
       
       <guid>https://krishamal.github.io/projects/</guid>
-      <description>&lt;section id=&#34;projects&#34;&gt;
-  &lt;div class=&#34;container&#34;&gt;
-    &lt;h3&gt;Projects&lt;/h3&gt;
-    &lt;div class=&#34;panel panel-default&#34;&gt;
-      &lt;div class=&#34;panel-body&#34;&gt;
-      &lt;h5&gt;
-        &lt;i class=&#34;fa fa-github&#34;&gt;&lt;/i&gt;&amp;nbsp;&amp;nbsp;&lt;i class=&#34;fa fa-android&#34;&gt;&lt;/i&gt;&amp;nbsp;&amp;nbsp;
-        &lt;strong&gt;&lt;a href=&#34;https://github.com/KrishAmal/PopularMovies&#34;&gt;Popular Movies&lt;/a&gt;&lt;/strong&gt;
-        - An Android App that Displays Movie details ,trailer and reviews .
-      &lt;/h5&gt;
-      &lt;h5&gt;
-        &lt;i class=&#34;fa fa-github&#34;&gt;&lt;/i&gt;&amp;nbsp;&amp;nbsp;&lt;i class=&#34;fa fa-android&#34;&gt;&lt;/i&gt;&amp;nbsp;&amp;nbsp;
-        &lt;strong&gt;&lt;a href=&#34;https://github.com/KrishAmal/StockHawk&#34;&gt;Stock Hawk&lt;/a&gt;&lt;/strong&gt;
-        - Android App for Curating Stock Quotes and Details .
-      &lt;/h5&gt;
-      &lt;h5&gt;
-        &lt;i class=&#34;fa fa-github&#34;&gt;&lt;/i&gt;&amp;nbsp;&amp;nbsp;&lt;i class=&#34;fa fa-android&#34;&gt;&lt;/i&gt;&amp;nbsp;&amp;nbsp;
-        &lt;strong&gt;&lt;a href=&#34;https://github.com/KrishAmal/BuildItBigger&#34;&gt;Build It Bigger&lt;/a&gt;&lt;/strong&gt;
-        - A Joke-telling Android App that uses Gradle , factoring functionality into libraries and 
-        flavors to keep the build simple. Also configured a Google Cloud Endpoints development server to 
-        supply the jokes.
-      &lt;/h5&gt;
-      &lt;h5&gt;
-        &lt;i class=&#34;fa fa-github&#34;&gt;&lt;/i&gt;&amp;nbsp;&amp;nbsp;&lt;i class=&#34;fa fa-android&#34;&gt;&lt;/i&gt;&amp;nbsp;&amp;nbsp;
-        &lt;strong&gt;&lt;a href=&#34;https://github.com/KrishAmal/XYZReader&#34;&gt;XYZReader&lt;/a&gt;&lt;/strong&gt;
-        - A slick looking Android App using material design used for reading articles .
-      &lt;/h5&gt;
-      &lt;h5&gt;
-        &lt;i class=&#34;fa fa-github&#34;&gt;&lt;/i&gt;&amp;nbsp;&amp;nbsp;&lt;i class=&#34;fa fa-android&#34;&gt;&lt;/i&gt;&amp;nbsp;&amp;nbsp;
-        &lt;strong&gt;&lt;a href=&#34;https://github.com/KrishAmal/GoUbiquitous&#34;&gt;GoUbiquitous&lt;/a&gt;&lt;/strong&gt;
-        - A Weather info Android App that supports Android wear through a beautifully crafted watch face.
-      &lt;/h5&gt;
-      &lt;h5&gt;
-        &lt;i class=&#34;fa fa-github&#34;&gt;&lt;/i&gt;&amp;nbsp;&amp;nbsp;&lt;i class=&#34;fa fa-desktop&#34;&gt;&lt;/i&gt;&amp;nbsp;&amp;nbsp;
-        &lt;strong&gt;&lt;a href=&#34;https://github.com/KrishAmal/Skydiving&#34;&gt;Skydiving &lt;/a&gt;&lt;/strong&gt;
-        - A Simple Skydiving Game built using OpenGL and C++ as a part of the University Undergraduate Mini Project.
-      &lt;/h5&gt;
-      &lt;/div&gt;
-    &lt;/div&gt;
-  &lt;/div&gt;
-&lt;/section&gt;
-</description>
+      <description></description>
     </item>
     
   </channel>
