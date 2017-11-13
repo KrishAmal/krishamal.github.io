@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Amal Krishnan</title>
-    <link>https://krishamal.github.io/</link>
-    <description>Recent content on Amal Krishnan</description>
+    <title>Mvp on Amal Krishnan</title>
+    <link>https://krishamal.github.io/tags/mvp/</link>
+    <description>Recent content in Mvp on Amal Krishnan</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
     <lastBuildDate>Sun, 12 Nov 2017 20:45:34 +0530</lastBuildDate>
     
-	<atom:link href="https://krishamal.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://krishamal.github.io/tags/mvp/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -19,25 +19,6 @@
       <guid>https://krishamal.github.io/blog/novice-guide-mvp-android/</guid>
       <description>The Model-View-Presenter &amp;amp; Android  “A design that doesn’t take change into account risks major redesign in the future.” ― Erich Gamma
  Design patterns is one of those few things that only after you&amp;rsquo;ve experienced it you realize how you lived without any care about it. And let me get straight to the point , this article is more of a list of very helpful and concise resources than an actual guide (you can find tons of step-by-step guides with code in medium) to the Model-View-Presenter Design pattern/Architecture for android.</description>
-    </item>
-    
-    <item>
-      <title>A New Theme , A New Blog</title>
-      <link>https://krishamal.github.io/blog/first-sample-post/</link>
-      <pubDate>Thu, 24 Nov 2016 12:27:29 +0530</pubDate>
-      
-      <guid>https://krishamal.github.io/blog/first-sample-post/</guid>
-      <description>My First post ever After Weeks of fiddling around with hugo and getting pretty proficient with Git Submodules and Markdown (So far , loving it !) , I&amp;rsquo;ve finally pushed my personal site . Thanks to Sustain Theme for making all these stuff look really slick.
-Carpe Diem</description>
-    </item>
-    
-    <item>
-      <title>Projects</title>
-      <link>https://krishamal.github.io/projects/</link>
-      <pubDate>Sun, 02 Oct 2016 22:55:05 -0400</pubDate>
-      
-      <guid>https://krishamal.github.io/projects/</guid>
-      <description></description>
     </item>
     
   </channel>

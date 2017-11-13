@@ -103,6 +103,15 @@ html, body {
  height: auto;
  max-width: 100%;
 }
+
+.gif-align {
+  display: block;
+  margin: auto;
+  max-width: 80%;
+  padding-top: 12px;
+  padding-bottom: 12px;
+}
+
 .panel-default h4 {
   text-align: left;
   line-height: 24px;

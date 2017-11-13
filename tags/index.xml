@@ -6,10 +6,37 @@
     <description>Recent content in Tags on Amal Krishnan</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Thu, 24 Nov 2016 12:27:29 +0530</lastBuildDate>
+    <lastBuildDate>Sun, 12 Nov 2017 20:45:34 +0530</lastBuildDate>
     
 	<atom:link href="https://krishamal.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Android</title>
+      <link>https://krishamal.github.io/tags/android/</link>
+      <pubDate>Sun, 12 Nov 2017 20:45:34 +0530</pubDate>
+      
+      <guid>https://krishamal.github.io/tags/android/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Architecture</title>
+      <link>https://krishamal.github.io/tags/architecture/</link>
+      <pubDate>Sun, 12 Nov 2017 20:45:34 +0530</pubDate>
+      
+      <guid>https://krishamal.github.io/tags/architecture/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Design Patterns</title>
+      <link>https://krishamal.github.io/tags/design-patterns/</link>
+      <pubDate>Sun, 12 Nov 2017 20:45:34 +0530</pubDate>
+      
+      <guid>https://krishamal.github.io/tags/design-patterns/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Git</title>
@@ -17,6 +44,15 @@
       <pubDate>Thu, 24 Nov 2016 12:27:29 +0530</pubDate>
       
       <guid>https://krishamal.github.io/tags/git/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Guide</title>
+      <link>https://krishamal.github.io/tags/guide/</link>
+      <pubDate>Sun, 12 Nov 2017 20:45:34 +0530</pubDate>
+      
+      <guid>https://krishamal.github.io/tags/guide/</guid>
       <description></description>
     </item>
     
@@ -35,6 +71,15 @@
       <pubDate>Thu, 24 Nov 2016 12:27:29 +0530</pubDate>
       
       <guid>https://krishamal.github.io/tags/markdown/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mvp</title>
+      <link>https://krishamal.github.io/tags/mvp/</link>
+      <pubDate>Sun, 12 Nov 2017 20:45:34 +0530</pubDate>
+      
+      <guid>https://krishamal.github.io/tags/mvp/</guid>
       <description></description>
     </item>
     
