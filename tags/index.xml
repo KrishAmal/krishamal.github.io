@@ -2,102 +2,102 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Amal Krishnan</title>
-    <link>https://krishamal.github.io/tags/</link>
+    <link>https://amalkrishnan.me/tags/</link>
     <description>Recent content in Tags on Amal Krishnan</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
     <lastBuildDate>Sun, 12 Nov 2017 20:45:34 +0530</lastBuildDate>
     
-	<atom:link href="https://krishamal.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://amalkrishnan.me/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Android</title>
-      <link>https://krishamal.github.io/tags/android/</link>
+      <link>https://amalkrishnan.me/tags/android/</link>
       <pubDate>Sun, 12 Nov 2017 20:45:34 +0530</pubDate>
       
-      <guid>https://krishamal.github.io/tags/android/</guid>
+      <guid>https://amalkrishnan.me/tags/android/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Architecture</title>
-      <link>https://krishamal.github.io/tags/architecture/</link>
+      <link>https://amalkrishnan.me/tags/architecture/</link>
       <pubDate>Sun, 12 Nov 2017 20:45:34 +0530</pubDate>
       
-      <guid>https://krishamal.github.io/tags/architecture/</guid>
+      <guid>https://amalkrishnan.me/tags/architecture/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Design Patterns</title>
-      <link>https://krishamal.github.io/tags/design-patterns/</link>
+      <link>https://amalkrishnan.me/tags/design-patterns/</link>
       <pubDate>Sun, 12 Nov 2017 20:45:34 +0530</pubDate>
       
-      <guid>https://krishamal.github.io/tags/design-patterns/</guid>
+      <guid>https://amalkrishnan.me/tags/design-patterns/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Git</title>
-      <link>https://krishamal.github.io/tags/git/</link>
+      <link>https://amalkrishnan.me/tags/git/</link>
       <pubDate>Thu, 24 Nov 2016 12:27:29 +0530</pubDate>
       
-      <guid>https://krishamal.github.io/tags/git/</guid>
+      <guid>https://amalkrishnan.me/tags/git/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Guide</title>
-      <link>https://krishamal.github.io/tags/guide/</link>
+      <link>https://amalkrishnan.me/tags/guide/</link>
       <pubDate>Sun, 12 Nov 2017 20:45:34 +0530</pubDate>
       
-      <guid>https://krishamal.github.io/tags/guide/</guid>
+      <guid>https://amalkrishnan.me/tags/guide/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Hugo</title>
-      <link>https://krishamal.github.io/tags/hugo/</link>
+      <link>https://amalkrishnan.me/tags/hugo/</link>
       <pubDate>Thu, 24 Nov 2016 12:27:29 +0530</pubDate>
       
-      <guid>https://krishamal.github.io/tags/hugo/</guid>
+      <guid>https://amalkrishnan.me/tags/hugo/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Markdown</title>
-      <link>https://krishamal.github.io/tags/markdown/</link>
+      <link>https://amalkrishnan.me/tags/markdown/</link>
       <pubDate>Thu, 24 Nov 2016 12:27:29 +0530</pubDate>
       
-      <guid>https://krishamal.github.io/tags/markdown/</guid>
+      <guid>https://amalkrishnan.me/tags/markdown/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Mvp</title>
-      <link>https://krishamal.github.io/tags/mvp/</link>
+      <link>https://amalkrishnan.me/tags/mvp/</link>
       <pubDate>Sun, 12 Nov 2017 20:45:34 +0530</pubDate>
       
-      <guid>https://krishamal.github.io/tags/mvp/</guid>
+      <guid>https://amalkrishnan.me/tags/mvp/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Projects</title>
-      <link>https://krishamal.github.io/tags/projects/</link>
+      <link>https://amalkrishnan.me/tags/projects/</link>
       <pubDate>Sun, 02 Oct 2016 22:55:05 -0400</pubDate>
       
-      <guid>https://krishamal.github.io/tags/projects/</guid>
+      <guid>https://amalkrishnan.me/tags/projects/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Sustain Theme</title>
-      <link>https://krishamal.github.io/tags/sustain-theme/</link>
+      <link>https://amalkrishnan.me/tags/sustain-theme/</link>
       <pubDate>Thu, 24 Nov 2016 12:27:29 +0530</pubDate>
       
-      <guid>https://krishamal.github.io/tags/sustain-theme/</guid>
+      <guid>https://amalkrishnan.me/tags/sustain-theme/</guid>
       <description></description>
     </item>
     

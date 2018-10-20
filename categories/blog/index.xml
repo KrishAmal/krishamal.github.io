@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Blog on Amal Krishnan</title>
-    <link>https://krishamal.github.io/categories/blog/</link>
+    <link>https://amalkrishnan.me/categories/blog/</link>
     <description>Recent content in Blog on Amal Krishnan</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
     <lastBuildDate>Thu, 24 Nov 2016 12:27:29 +0530</lastBuildDate>
     
-	<atom:link href="https://krishamal.github.io/categories/blog/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://amalkrishnan.me/categories/blog/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>A New Theme , A New Blog</title>
-      <link>https://krishamal.github.io/blog/first-sample-post/</link>
+      <link>https://amalkrishnan.me/blog/first-sample-post/</link>
       <pubDate>Thu, 24 Nov 2016 12:27:29 +0530</pubDate>
       
-      <guid>https://krishamal.github.io/blog/first-sample-post/</guid>
+      <guid>https://amalkrishnan.me/blog/first-sample-post/</guid>
       <description>My First post ever After Weeks of fiddling around with hugo and getting pretty proficient with Git Submodules and Markdown (So far , loving it !) , I&amp;rsquo;ve finally pushed my personal site . Thanks to Sustain Theme for making all these stuff look really slick.
 Carpe Diem</description>
     </item>

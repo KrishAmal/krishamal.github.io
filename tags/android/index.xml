@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Android on Amal Krishnan</title>
-    <link>https://krishamal.github.io/tags/android/</link>
+    <link>https://amalkrishnan.me/tags/android/</link>
     <description>Recent content in Android on Amal Krishnan</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
     <lastBuildDate>Sun, 12 Nov 2017 20:45:34 +0530</lastBuildDate>
     
-	<atom:link href="https://krishamal.github.io/tags/android/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://amalkrishnan.me/tags/android/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>A Novice&#39;s guide to MVP in Android</title>
-      <link>https://krishamal.github.io/blog/novice-guide-mvp-android/</link>
+      <link>https://amalkrishnan.me/blog/novice-guide-mvp-android/</link>
       <pubDate>Sun, 12 Nov 2017 20:45:34 +0530</pubDate>
       
-      <guid>https://krishamal.github.io/blog/novice-guide-mvp-android/</guid>
+      <guid>https://amalkrishnan.me/blog/novice-guide-mvp-android/</guid>
       <description>The Model-View-Presenter &amp;amp; Android  “A design that doesn’t take change into account risks major redesign in the future.” ― Erich Gamma
  Design patterns is one of those few things that only after you&amp;rsquo;ve experienced it you realize how you lived without any care about it. And let me get straight to the point , this article is more of a list of very helpful and concise resources than an actual guide (you can find tons of step-by-step guides with code in medium) to the Model-View-Presenter Design pattern/Architecture for android.</description>
     </item>

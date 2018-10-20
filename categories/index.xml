@@ -2,66 +2,66 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Amal Krishnan</title>
-    <link>https://krishamal.github.io/categories/</link>
+    <link>https://amalkrishnan.me/categories/</link>
     <description>Recent content in Categories on Amal Krishnan</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
     <lastBuildDate>Sun, 12 Nov 2017 20:45:34 +0530</lastBuildDate>
     
-	<atom:link href="https://krishamal.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://amalkrishnan.me/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Android</title>
-      <link>https://krishamal.github.io/categories/android/</link>
+      <link>https://amalkrishnan.me/categories/android/</link>
       <pubDate>Sun, 12 Nov 2017 20:45:34 +0530</pubDate>
       
-      <guid>https://krishamal.github.io/categories/android/</guid>
+      <guid>https://amalkrishnan.me/categories/android/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Architecture</title>
-      <link>https://krishamal.github.io/categories/architecture/</link>
+      <link>https://amalkrishnan.me/categories/architecture/</link>
       <pubDate>Sun, 12 Nov 2017 20:45:34 +0530</pubDate>
       
-      <guid>https://krishamal.github.io/categories/architecture/</guid>
+      <guid>https://amalkrishnan.me/categories/architecture/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Blog</title>
-      <link>https://krishamal.github.io/categories/blog/</link>
+      <link>https://amalkrishnan.me/categories/blog/</link>
       <pubDate>Thu, 24 Nov 2016 12:27:29 +0530</pubDate>
       
-      <guid>https://krishamal.github.io/categories/blog/</guid>
+      <guid>https://amalkrishnan.me/categories/blog/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Design Patterns</title>
-      <link>https://krishamal.github.io/categories/design-patterns/</link>
+      <link>https://amalkrishnan.me/categories/design-patterns/</link>
       <pubDate>Sun, 12 Nov 2017 20:45:34 +0530</pubDate>
       
-      <guid>https://krishamal.github.io/categories/design-patterns/</guid>
+      <guid>https://amalkrishnan.me/categories/design-patterns/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Development</title>
-      <link>https://krishamal.github.io/categories/development/</link>
+      <link>https://amalkrishnan.me/categories/development/</link>
       <pubDate>Thu, 24 Nov 2016 12:27:29 +0530</pubDate>
       
-      <guid>https://krishamal.github.io/categories/development/</guid>
+      <guid>https://amalkrishnan.me/categories/development/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Projects</title>
-      <link>https://krishamal.github.io/categories/projects/</link>
+      <link>https://amalkrishnan.me/categories/projects/</link>
       <pubDate>Sun, 02 Oct 2016 22:55:05 -0400</pubDate>
       
-      <guid>https://krishamal.github.io/categories/projects/</guid>
+      <guid>https://amalkrishnan.me/categories/projects/</guid>
       <description></description>
     </item>
     
