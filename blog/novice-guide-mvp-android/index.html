@@ -6,11 +6,11 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="author" content="map[]" />
     <meta name="description" content="Hi this is my personal website">
-    <link rel="shortcut icon" type="image/x-icon" href="https://amalkrishnan.me/img/favicon.ico">
+    <link rel="shortcut icon" type="image/x-icon" href="https://amalkrish.com/img/favicon.ico">
     <title>A Novice&#39;s guide to MVP in Android</title>
-    <meta name="generator" content="Hugo 0.26" />
+    <meta name="generator" content="Hugo 0.81.0" />
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
-    <link rel="stylesheet" type="text/css" href="https://amalkrishnan.me/css/main.css" />
+    <link rel="stylesheet" type="text/css" href="https://amalkrish.com/css/main.css" />
     <link rel="stylesheet" type="text/css" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.3/css/font-awesome.min.css" />
     <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:200,400,200bold,400old" />
     
@@ -20,14 +20,17 @@
 		<![endif]-->
 
     
-<script>
-(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
-
-ga('create', 'UA-87990414-1', 'auto');
-ga('send', 'pageview');
+<script type="application/javascript">
+var doNotTrack = false;
+if (!doNotTrack) {
+	(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+	(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+	m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+	})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+	ga('create', 'UA-87990414-1', 'auto');
+	
+	ga('send', 'pageview');
+}
 </script>
 
   </head>
@@ -44,7 +47,7 @@ ga('send', 'pageview');
       <nav class="navbar navbar-default">
   <div class="container">
     <div class="navbar-header">
-      <a class="navbar-brand" href="https://amalkrishnan.me/"><i class="fa fa-home"></i></a>
+      <a class="navbar-brand" href="https://amalkrish.com/"><i class="fa fa-home"></i></a>
     </div>
     <div id="navbar">
       <ul class="nav navbar-nav navbar-right">
@@ -64,7 +67,7 @@ ga('send', 'pageview');
       <div class="container">
         <div class="blog-post">
           <h3>
-            <strong><a href="https://amalkrishnan.me/blog/novice-guide-mvp-android/">A Novice&#39;s guide to MVP in Android</a></strong>
+            <strong><a href="https://amalkrish.com/blog/novice-guide-mvp-android/">A Novice&#39;s guide to MVP in Android</a></strong>
           </h3>
         </div>
         <div class="blog-title">
@@ -87,62 +90,36 @@ ga('send', 'pageview');
         <div class="panel panel-default">
           <div class="panel-body">
             <div class="blogpost" style="text-align: justify">
-              
-
-
-<figure >
-    <a href="https://unsplash.com/photos/VD9Hsvg3DVQ">
-        <img src="/blogimg/novice_mvp_guide_img_header.jpg" width="100%" />
-    </a>
-    
+              <figure><a href="https://unsplash.com/photos/VD9Hsvg3DVQ">
+    <img src="/blogimg/novice_mvp_guide_img_header.jpg" width="100%"/> </a>
 </figure>
 
-
-<h2 id="the-model-view-presenter-android"><strong>The Model-View-Presenter &amp; Android</strong></h2>
-
+<h2 id="__the-model-view-presenter--android__"><strong>The Model-View-Presenter &amp; Android</strong></h2>
 <blockquote>
 <p><em>“A design that doesn’t take change into account risks major redesign in the future.”</em>
 ― <strong>Erich Gamma</strong></p>
 </blockquote>
-
 <p><em>Design patterns</em> is one of those few things that only after you&rsquo;ve experienced it you realize how you lived without any care about it. And let me get straight to the point , this article is more of a list of very helpful and concise resources than an actual guide <em>(you can find tons of step-by-step guides with code in medium)</em> to the <strong>Model-View-Presenter</strong> Design pattern/Architecture for android. This is for the novice&rsquo;s who want to take their first bite at MVP in android and assumes you are familiar with Version control systems , like Git.</p>
-
 <p>Let&rsquo;s start by getting to know MVP and its siblings in the land of design patterns through an excellent article by Realm <a href="https://academy.realm.io/posts/eric-maxwell-mvc-mvp-and-mvvm-on-android/">MVC-MVP-MVVM by Eric Maxwell</a> . Before we get our hands dirty, i want you to check out Martin Fowler&rsquo;s <a href="https://martinfowler.com/">Blog</a> on Design Patterns. He has written extensively on this topic and has an amazing book titled <em>Patterns of Enterprise Application Architecture</em> . Now there is a design pattern of special interest for us , the Repository pattern , which you can read <a href="https://martinfowler.com/eaaCatalog/repository.html">here</a> and <a href="http://hannesdorfmann.com/android/evolution-of-the-repository-pattern">here</a> . That book itself is a treasure trove , so get a copy if you can. Now that we have the <em>Why</em> , lets move on to the <em>How</em> and the <em>Where</em> .</p>
-
-
 <figure class="gif-align">
-    
-        <img src="https://media.giphy.com/media/3ohhwNkgJW2I0RIzHq/giphy.gif" width="100%" />
-    
-    
+    <img src="https://media.giphy.com/media/3ohhwNkgJW2I0RIzHq/giphy.gif" width="100%"/> 
 </figure>
 
-
-<h2 id="the-how-and-the-where"><strong>The <em>How</em> and the <em>Where</em></strong></h2>
-
+<h2 id="__the-how-and-the-where__"><strong>The <em>How</em> and the <em>Where</em></strong></h2>
 <blockquote>
 <p><em>“Any fool can know. The point is to understand.”</em>
 ― <strong>Albert Einstein</strong></p>
 </blockquote>
-
 <p>As a starting point , i went for the <a href="https://github.com/googlesamples/android-architecture">Google Android Architecture Blueprints</a>  Github Repository where you can find a single TODO app implemented using different architectures and frameworks. But initially the whole structure was kind of alien to me , so i searched for videos where they implement MVP in android and i came across two amazing channels , <a href="https://www.youtube.com/channel/UCS4dsIMOKXAfPlgCTt4QOvQ">DryCode</a> and <a href="https://www.youtube.com/user/gosuddr93/videos?">WiseAss</a> . These channels are highly recommended if you&rsquo;re just starting out in android. Check this specific video by DryCode where he does a live coding session <a href="https://www.youtube.com/watch?v=ZWYOy8E4jWo">Refactoring an Android App - #1 - Intro to the MVP pattern</a> series. Now, download/clone a copy of the architecture blueprints repository <em>(preferably the <a href="https://github.com/googlesamples/android-architecture/tree/todo-mvp/">todo-mvp</a> branch if your&rsquo;re new to android)</em> and get familiar with it while you&rsquo;re watching the videos .</p>
-
 <p><em><strong>NOTE:</strong> Now there&rsquo;s one thing i would suggest you to start with , and that is TDD(Test Driven Development) especially when you&rsquo;re new to android , because once you get an idea of the cycle in which testing is interweaved into development , in the after stages the whole process won&rsquo;t be intimidating. There are tons of resources(including great books)on TDD in the internet, you can find them being used in the videos i&rsquo;ve linked .</em></p>
-
 <p>Coming back to the architecture blueprints repository , i choose the todo-MVP-RxJava branch as i wanted to know learn how RxJava works with MVP , and it took some time as i didnt have much experience with either of them. So, as i have decided to build an app , i thought why not make it a serious project and release it in the Google Play Store. In the end i did publish it and i have to say it was a satisfying and an awesome learning experience.</p>
-
 <p>If you&rsquo;d like to see the App it can be found here <a href="https://play.google.com/store/apps/details?id=com.amal.perusalquotes&amp;hl=en">PerusalQuotes</a>. I plan to write about that in a later post.</p>
-
 <p>Now using the architecture blueprints repository , you can easily understand what goes behind the scenes and how all the dots get connected. It uses the repository pattern for the Model part <em>(thanks to the link earlier , we are well aware of it)</em>. And if you&rsquo;re new to Data Storage in android , i suggest you read about it here <a href="https://developer.android.com/guide/topics/data/data-storage.html">Data Storage Android</a> . I tried the amazing <a href="https://developer.android.com/topic/libraries/architecture/room.html">Room Persistence Library</a>
- for easy handling of SQLite in android. The View and Presenter part is pretty straightforward. The reason i highlight the architecture bluprints repository is that , it is the best possible repository out there for architecture in android and they use the latest libraries and best practices. You&rsquo;ll also learn Testing as they cover it extensively.</p>
-
+for easy handling of SQLite in android. The View and Presenter part is pretty straightforward. The reason i highlight the architecture bluprints repository is that , it is the best possible repository out there for architecture in android and they use the latest libraries and best practices. You&rsquo;ll also learn Testing as they cover it extensively.</p>
 <p>I pretty much needed only these resources to get a good grasp of what MVP is and also a great deal of what design patterns does. After getting to know design patterns , i definitely will use it in all of my future projects. Hope this article was of value and do share your thoughts below.</p>
-
 <p><strong>Thank You</strong> 😄</p>
-
 <p><em>Tip:</em>
 Here is a great read and step by step guide to MVP , <a href="https://blog.mindorks.com/tagged/mvp">Mindorks MVP Articles</a>.</p>
-
 <p>I ❤️ Design Patterns</p>
 
               <br>
@@ -196,10 +173,10 @@ Here is a great read and step by step guide to MVP , <a href="https://blog.mindo
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
 
 <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
-<script src="https://amalkrishnan.me/js/docs.min.js"></script>
-<script src="https://amalkrishnan.me/js/main.js"></script>
+<script src="https://amalkrish.com/js/docs.min.js"></script>
+<script src="https://amalkrish.com/js/main.js"></script>
 
-<script src="https://amalkrishnan.me/js/ie10-viewport-bug-workaround.js"></script>
+<script src="https://amalkrish.com/js/ie10-viewport-bug-workaround.js"></script>
 
 
     

@@ -1,140 +1,74 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
-    <loc>https://amalkrishnan.me/blog/novice-guide-mvp-android/</loc>
+    <loc>https://amalkrish.com/blog/novice-guide-mvp-android/</loc>
     <lastmod>2017-11-12T20:45:34+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://amalkrishnan.me/blog/first-sample-post/</loc>
+  </url><url>
+    <loc>https://amalkrish.com/</loc>
+    <lastmod>2017-11-12T20:45:34+05:30</lastmod>
+  </url><url>
+    <loc>https://amalkrish.com/tags/android/</loc>
+    <lastmod>2017-11-12T20:45:34+05:30</lastmod>
+  </url><url>
+    <loc>https://amalkrish.com/categories/android/</loc>
+    <lastmod>2017-11-12T20:45:34+05:30</lastmod>
+  </url><url>
+    <loc>https://amalkrish.com/tags/architecture/</loc>
+    <lastmod>2017-11-12T20:45:34+05:30</lastmod>
+  </url><url>
+    <loc>https://amalkrish.com/categories/architecture/</loc>
+    <lastmod>2017-11-12T20:45:34+05:30</lastmod>
+  </url><url>
+    <loc>https://amalkrish.com/blog/</loc>
+    <lastmod>2017-11-12T20:45:34+05:30</lastmod>
+  </url><url>
+    <loc>https://amalkrish.com/categories/</loc>
+    <lastmod>2017-11-12T20:45:34+05:30</lastmod>
+  </url><url>
+    <loc>https://amalkrish.com/tags/design-patterns/</loc>
+    <lastmod>2017-11-12T20:45:34+05:30</lastmod>
+  </url><url>
+    <loc>https://amalkrish.com/categories/design-patterns/</loc>
+    <lastmod>2017-11-12T20:45:34+05:30</lastmod>
+  </url><url>
+    <loc>https://amalkrish.com/tags/guide/</loc>
+    <lastmod>2017-11-12T20:45:34+05:30</lastmod>
+  </url><url>
+    <loc>https://amalkrish.com/tags/mvp/</loc>
+    <lastmod>2017-11-12T20:45:34+05:30</lastmod>
+  </url><url>
+    <loc>https://amalkrish.com/tags/</loc>
+    <lastmod>2017-11-12T20:45:34+05:30</lastmod>
+  </url><url>
+    <loc>https://amalkrish.com/blog/first-sample-post/</loc>
     <lastmod>2016-11-24T12:27:29+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://amalkrishnan.me/projects/</loc>
+  </url><url>
+    <loc>https://amalkrish.com/categories/blog/</loc>
+    <lastmod>2016-11-24T12:27:29+05:30</lastmod>
+  </url><url>
+    <loc>https://amalkrish.com/categories/development/</loc>
+    <lastmod>2016-11-24T12:27:29+05:30</lastmod>
+  </url><url>
+    <loc>https://amalkrish.com/tags/git/</loc>
+    <lastmod>2016-11-24T12:27:29+05:30</lastmod>
+  </url><url>
+    <loc>https://amalkrish.com/tags/hugo/</loc>
+    <lastmod>2016-11-24T12:27:29+05:30</lastmod>
+  </url><url>
+    <loc>https://amalkrish.com/tags/markdown/</loc>
+    <lastmod>2016-11-24T12:27:29+05:30</lastmod>
+  </url><url>
+    <loc>https://amalkrish.com/tags/sustain-theme/</loc>
+    <lastmod>2016-11-24T12:27:29+05:30</lastmod>
+  </url><url>
+    <loc>https://amalkrish.com/projects/</loc>
+    <lastmod>2016-10-02T22:55:05-04:00</lastmod>
+  </url><url>
+    <loc>https://amalkrish.com/tags/projects/</loc>
+    <lastmod>2016-10-02T22:55:05-04:00</lastmod>
+  </url><url>
+    <loc>https://amalkrish.com/categories/projects/</loc>
     <lastmod>2016-10-02T22:55:05-04:00</lastmod>
   </url>
-  
-  <url>
-    <loc>https://amalkrishnan.me/</loc>
-    <lastmod>2017-11-12T20:45:34+05:30</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://amalkrishnan.me/tags/android/</loc>
-    <lastmod>2017-11-12T20:45:34+05:30</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://amalkrishnan.me/categories/android/</loc>
-    <lastmod>2017-11-12T20:45:34+05:30</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://amalkrishnan.me/tags/architecture/</loc>
-    <lastmod>2017-11-12T20:45:34+05:30</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://amalkrishnan.me/categories/architecture/</loc>
-    <lastmod>2017-11-12T20:45:34+05:30</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://amalkrishnan.me/categories/blog/</loc>
-    <lastmod>2016-11-24T12:27:29+05:30</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://amalkrishnan.me/blog/</loc>
-    <lastmod>2017-11-12T20:45:34+05:30</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://amalkrishnan.me/categories/</loc>
-    <lastmod>2017-11-12T20:45:34+05:30</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://amalkrishnan.me/tags/design-patterns/</loc>
-    <lastmod>2017-11-12T20:45:34+05:30</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://amalkrishnan.me/categories/design-patterns/</loc>
-    <lastmod>2017-11-12T20:45:34+05:30</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://amalkrishnan.me/categories/development/</loc>
-    <lastmod>2016-11-24T12:27:29+05:30</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://amalkrishnan.me/tags/git/</loc>
-    <lastmod>2016-11-24T12:27:29+05:30</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://amalkrishnan.me/tags/guide/</loc>
-    <lastmod>2017-11-12T20:45:34+05:30</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://amalkrishnan.me/tags/hugo/</loc>
-    <lastmod>2016-11-24T12:27:29+05:30</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://amalkrishnan.me/tags/markdown/</loc>
-    <lastmod>2016-11-24T12:27:29+05:30</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://amalkrishnan.me/tags/mvp/</loc>
-    <lastmod>2017-11-12T20:45:34+05:30</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://amalkrishnan.me/tags/projects/</loc>
-    <lastmod>2016-10-02T22:55:05-04:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://amalkrishnan.me/categories/projects/</loc>
-    <lastmod>2016-10-02T22:55:05-04:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://amalkrishnan.me/tags/sustain-theme/</loc>
-    <lastmod>2016-11-24T12:27:29+05:30</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://amalkrishnan.me/tags/</loc>
-    <lastmod>2017-11-12T20:45:34+05:30</lastmod>
-    <priority>0</priority>
-  </url>
-  
 </urlset>

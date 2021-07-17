@@ -1,67 +1,63 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Amal Krishnan</title>
-    <link>https://amalkrishnan.me/categories/</link>
+    <link>https://amalkrish.com/categories/</link>
     <description>Recent content in Categories on Amal Krishnan</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Sun, 12 Nov 2017 20:45:34 +0530</lastBuildDate>
-    
-	<atom:link href="https://amalkrishnan.me/categories/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Sun, 12 Nov 2017 20:45:34 +0530</lastBuildDate><atom:link href="https://amalkrish.com/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Android</title>
-      <link>https://amalkrishnan.me/categories/android/</link>
+      <title>android</title>
+      <link>https://amalkrish.com/categories/android/</link>
       <pubDate>Sun, 12 Nov 2017 20:45:34 +0530</pubDate>
       
-      <guid>https://amalkrishnan.me/categories/android/</guid>
+      <guid>https://amalkrish.com/categories/android/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Architecture</title>
-      <link>https://amalkrishnan.me/categories/architecture/</link>
+      <title>architecture</title>
+      <link>https://amalkrish.com/categories/architecture/</link>
       <pubDate>Sun, 12 Nov 2017 20:45:34 +0530</pubDate>
       
-      <guid>https://amalkrishnan.me/categories/architecture/</guid>
+      <guid>https://amalkrish.com/categories/architecture/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>design-patterns</title>
+      <link>https://amalkrish.com/categories/design-patterns/</link>
+      <pubDate>Sun, 12 Nov 2017 20:45:34 +0530</pubDate>
+      
+      <guid>https://amalkrish.com/categories/design-patterns/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Blog</title>
-      <link>https://amalkrishnan.me/categories/blog/</link>
+      <link>https://amalkrish.com/categories/blog/</link>
       <pubDate>Thu, 24 Nov 2016 12:27:29 +0530</pubDate>
       
-      <guid>https://amalkrishnan.me/categories/blog/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Design Patterns</title>
-      <link>https://amalkrishnan.me/categories/design-patterns/</link>
-      <pubDate>Sun, 12 Nov 2017 20:45:34 +0530</pubDate>
-      
-      <guid>https://amalkrishnan.me/categories/design-patterns/</guid>
+      <guid>https://amalkrish.com/categories/blog/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Development</title>
-      <link>https://amalkrishnan.me/categories/development/</link>
+      <link>https://amalkrish.com/categories/development/</link>
       <pubDate>Thu, 24 Nov 2016 12:27:29 +0530</pubDate>
       
-      <guid>https://amalkrishnan.me/categories/development/</guid>
+      <guid>https://amalkrish.com/categories/development/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Projects</title>
-      <link>https://amalkrishnan.me/categories/projects/</link>
+      <title>projects</title>
+      <link>https://amalkrish.com/categories/projects/</link>
       <pubDate>Sun, 02 Oct 2016 22:55:05 -0400</pubDate>
       
-      <guid>https://amalkrishnan.me/categories/projects/</guid>
+      <guid>https://amalkrish.com/categories/projects/</guid>
       <description></description>
     </item>
     
